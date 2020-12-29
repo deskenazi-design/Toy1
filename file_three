@@ -1,6 +1,0 @@
-3. Teil 3: Wie übertrage ich einen Fall mithilfe des Symbols "Eigentümer ändern"?
-3.1.	Access the Service Cloud.
-3.2.	Access the Case (Case in Salesforce = SR in CRMOD)   MODIFIED THIRD LINE.
-3.3.	Click Update Case and complete the Subject and Description fields of the Case (Case in Salesforce = SR in CRMOD) if the fields are empty. 
-3.4.	Click the Save button located below the Resolution Comment field. 
-3.5.	Locate the Case Owner field in the Top Pane of the Case.
