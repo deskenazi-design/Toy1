@@ -1,5 +1,5 @@
 2. Part 2: How Do I Transfer a Case using the Transfer button?
 2.1.	Access Service Cloud.
-2.2.	Access the Case. 
+2.2.	Access the Case ( Service Request in CRMOD) . ( MODIFIED LINE THREE IN DEV!)
 2.3.	Click Update Case and complete the Subject and Description fields of the Case if the fields are empty. 
 2.4.	Click the Save button located below the Resolution Comment field. 
